@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
 
-class Nav extends Component {
+class Contact extends Component {
   render() {
     return (
       <div>
-          <h1> Navigation Bar</h1>
+        <h1> Contact Page</h1>
       </div>
     );
   }
 }
 
-export default Nav;
+export default Contact;
